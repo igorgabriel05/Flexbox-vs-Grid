@@ -45,3 +45,7 @@ Em muitos casos, você pode usar ambos juntos. Por exemplo, pode usar o Grid par
 Em resumo, Flexbox e Grid são ferramentas poderosas para criar layouts flexíveis e responsivos. Cada um tem suas próprias vantagens e, em muitos casos, a combinação dos dois pode levar a layouts ainda mais eficazes e sofisticados. A escolha entre Flexbox e Grid dependerá das necessidades específicas do seu projeto e do tipo de layout que você deseja criar.
 
 https://cynoteck.com/pt/blog-post/css-grid-vs-flexbox/#:~:text=Ent%C3%A3o%2C%20a%20partir%20daqui%2C%20passamos,em%20ambas%20ao%20mesmo%20tempo.
+
+https://felipefialho.com/blog/css-grid-e-flexbox-quando-utilizar/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/gap
