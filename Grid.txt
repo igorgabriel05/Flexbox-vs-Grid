@@ -1,0 +1,32 @@
+O que é Grid?
+
+- Grid é um sistema de layout bi-dimensional composta por linhas e colunas para CSS.
+- Grids são muito importante para a criação de sites responsivos para o design de sites e interfaces.
+- O Grid facilitam no ajuste de proporção dos elementos, seu alinhamento e consistência, sem consumir muito esforço. Obs: Ele é parecido com o bootstrap que divide em colunas e linhas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A recomendação para utilização do CSS Grid é para ser aplicado quando formos utilizar elementos em duas dimensões (ex. linhas e colunas), como o layout de uma página. Já o flexbox é mais recomendado para ser utilizado quando formos trabalhar em apenas uma dimensão, seja ela tanto vertical quanto horizontal.
+
+- Grids podem ser usados para o design de layouts de grandes seções de uma webpage, assim como de pequenos elementos de interface.
