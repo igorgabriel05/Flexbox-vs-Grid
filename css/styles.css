@@ -27,7 +27,7 @@ h1 {
 
 @media (max-width: 600px){
   .titulo p{
-    padding: 2px;
+    padding: 50px;
     font-size: 18px;
   }
 }
@@ -57,20 +57,6 @@ img {
 .menu li a {
   display: block;
   padding: 10px;
-}
-
-/* CSS FLEXBOX 1 */
-
-.flex {
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.flex > div {
-  flex: 1 1 200px;
-  margin: 10px;
 }
 
 /* CSS GRID 1 */
