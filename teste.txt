@@ -1,0 +1,12 @@
+Pergunta 4: Qual propriedade do CSS Grid é usada para alinhar itens verticalmente dentro de uma célula do grid?
+
+a) align-items
+b) place-self
+c) vertical-align
+d) align-content
+
+Pergunta 5: Qual unidade de medida é exclusiva para uso no CSS Grid para definir tamanhos de colunas e linhas?
+a) px
+b) fr
+c) vw
+d) em
